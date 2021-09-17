@@ -1,0 +1,7 @@
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Client\SecondLabClient\bin\Release\SecondLabClient.exe.config
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Client\SecondLabClient\bin\Release\SecondLabClient.exe
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Client\SecondLabClient\bin\Release\SecondLabClient.pdb
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Client\SecondLabClient\obj\Release\Client.csproj.AssemblyReference.cache
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Client\SecondLabClient\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Client\SecondLabClient\obj\Release\SecondLabClient.exe
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Client\SecondLabClient\obj\Release\SecondLabClient.pdb

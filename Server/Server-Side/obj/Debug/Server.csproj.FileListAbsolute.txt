@@ -1,0 +1,21 @@
+C:\Users\Алексей\Desktop\КСИС\2 лаба\TCP-IP\SecondLab\SecondLab\bin\Debug\SecondLab.exe.config
+C:\Users\Алексей\Desktop\КСИС\2 лаба\TCP-IP\SecondLab\SecondLab\bin\Debug\SecondLab.exe
+C:\Users\Алексей\Desktop\КСИС\2 лаба\TCP-IP\SecondLab\SecondLab\bin\Debug\SecondLab.pdb
+C:\Users\Алексей\Desktop\КСИС\2 лаба\TCP-IP\SecondLab\SecondLab\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\КСИС\2 лаба\TCP-IP\SecondLab\SecondLab\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\КСИС\2 лаба\TCP-IP\SecondLab\SecondLab\obj\Debug\SecondLab.exe
+C:\Users\Алексей\Desktop\КСИС\2 лаба\TCP-IP\SecondLab\SecondLab\obj\Debug\SecondLab.pdb
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Server\SecondLab\bin\Debug\SecondLab.exe.config
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Server\SecondLab\bin\Debug\SecondLab.exe
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Server\SecondLab\bin\Debug\SecondLab.pdb
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Server\SecondLab\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Server\SecondLab\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Server\SecondLab\obj\Debug\SecondLab.exe
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Server\SecondLab\obj\Debug\SecondLab.pdb
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Server\Server-Side\bin\Debug\SecondLab.exe.config
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Server\Server-Side\bin\Debug\SecondLab.exe
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Server\Server-Side\bin\Debug\SecondLab.pdb
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Server\Server-Side\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Server\Server-Side\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Server\Server-Side\obj\Debug\SecondLab.exe
+C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Server\Server-Side\obj\Debug\SecondLab.pdb
