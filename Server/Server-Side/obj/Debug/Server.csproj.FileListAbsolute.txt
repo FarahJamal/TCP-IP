@@ -19,3 +19,5 @@ C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Server\Server-Si
 C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Server\Server-Side\obj\Debug\Server.csproj.CoreCompileInputs.cache
 C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Server\Server-Side\obj\Debug\SecondLab.exe
 C:\Users\DeLL\Downloads\test\TCP-IP-File-Transfer-master\TCP-IP\Server\Server-Side\obj\Debug\SecondLab.pdb
+\\wsl$\Ubuntu-20.04\home\farah\code301-Labs\TCP-IP\Server\Server-Side\obj\Debug\SecondLab.exe
+\\wsl$\Ubuntu-20.04\home\farah\code301-Labs\TCP-IP\Server\Server-Side\obj\Debug\SecondLab.pdb
